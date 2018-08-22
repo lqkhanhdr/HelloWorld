@@ -42,6 +42,8 @@
 - [[Cuối năm rảnh dé] Tư vấn tâm lý tình cảm, phát triển bản thân etc...](https://forums.voz.vn/showthread.php?t=4567829)
 - [[Re up] Chinh phục một cô gái by Ghost](https://forums.voz.vn/showthread.php?t=5044217)
 - [[Review công ty] CNTT, Điện tử, Viễn thông... bơi hết vào](https://forums.voz.vn/showthread.php?t=4044158)
+- [[REVIEW] Nhìn lại 15 năm lập trình](https://forums.voz.vn/showthread.php?t=3431312)
+
 ---
 
 ## [Welcome to Steam](https://store.steampowered.com/)
