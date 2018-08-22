@@ -4,7 +4,13 @@
 ---
 
 ## [YouTube](https://www.youtube.com/)
+- [Nintendo](https://www.youtube.com/channel/UCGIY_O-8vW4rfX98KlMkvRg)
+- [PlayStation](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA)
+- [theRadBrad](https://www.youtube.com/channel/UCpqXJOEqGS-TCnazcHCo0rA)
 - [VIVA Network](https://www.youtube.com/channel/UCF5RuEuoGrqGtscvLGLOMew)
+- [Traditional Massage](https://www.youtube.com/channel/UCF9IY-ClkhIYqCafMPLmQjQ)
+- [Cut](https://www.youtube.com/channel/UCbaGn5VkOVlcRgIWAHcrJKA)
+- [Tinh tế](https://www.youtube.com/channel/UCyQobySFx_h9oFwsBV0KGdg)
 - [Street Workout Lang Hoa](https://www.youtube.com/channel/UCiKXIRVSWLoPGzEldGIyBwQ)
 - [PEWPEW](https://www.youtube.com/channel/UCsaMa3VD1I9G952DDlOX7aw)
 - [Trắng](https://www.youtube.com/channel/UCp-yY0F1wgZ1CUnh3upZLBQ)
@@ -25,6 +31,7 @@
 - [NoobfromUA](https://www.youtube.com/channel/UCfsOfLvadg89Bx8Sv_6WERg)
 - [Mango Street](https://www.youtube.com/channel/UC5bp5_6h-ZxkBz6S_33ZUVg)
 - [Chris Hau](https://www.youtube.com/channel/UCRte954rw0oeMWFroy_ClAw)
+- [Peter McKinnon](https://www.youtube.com/channel/UC3DkFux8Iv-aYnTRWzwaiBA)
 - [English with Lucy](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA)
 - [Jimmy Kimmel Live](https://www.youtube.com/channel/UCa6vGFO9ty8v5KZJXQxdhaw)
 
@@ -34,7 +41,7 @@
 - [Những hộp cơm trưa 15 nghìn đồng của nữ nhân viên văn phòng ở Hải Dương](https://forums.voz.vn/showthread.php?t=7367436)
 - [[Cuối năm rảnh dé] Tư vấn tâm lý tình cảm, phát triển bản thân etc...](https://forums.voz.vn/showthread.php?t=4567829)
 - [[Re up] Chinh phục một cô gái by Ghost](https://forums.voz.vn/showthread.php?t=5044217)
-
+- [[Review công ty] CNTT, Điện tử, Viễn thông... bơi hết vào](https://forums.voz.vn/showthread.php?t=4044158)
 ---
 
 ## [Welcome to Steam](https://store.steampowered.com/)
@@ -42,6 +49,7 @@
 - [ ] [Rise of the Tomb Raider](https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/)
 - [ ] [Shadow of the Tomb Raider](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider/)
 - [ ] [RESIDENT EVIL 2 / BIOHAZARD RE:2](https://store.steampowered.com/app/883710/RESIDENT_EVIL_2__BIOHAZARD_RE2/)
+- [ ] [METAL GEAR SOLID V: THE PHANTOM PAIN](https://store.steampowered.com/app/287700/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN/)
 
 ---
 
@@ -120,5 +128,31 @@
 ## [The world's leading software development platform · GitHub](https://github.com/)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university/)
 - [MT7630E](https://github.com/neurobin/MT7630E)
+
+---
+
+## [The most passionate photography community / 500px](https://500px.com/)
+
+---
+
+## [TED: Ideas worth spreading](https://www.ted.com/)
+
+---
+
+## [GoalKicker.com: Free Programming Books](https://goalkicker.com/)
+
+---
+
+## [Từ coder đến developer – Tôi đi code dạo | Lập trình viên giỏi không phải chỉ biết code](https://toidicodedao.com/)
+
+---
+
+## [tradahacking](https://tradahacking.vn/)
+
+---
+
+## [Dạy Nhau Học](https://daynhauhoc.com/)
+- [Khóa học C++](https://cpp.daynhauhoc.com/)
+- [Những kiến thức nào cần có để học Embedded System?](https://daynhauhoc.com/t/nhung-kien-thuc-nao-can-co-de-hoc-embedded-system/9780)
 
 ---
