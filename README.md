@@ -68,6 +68,9 @@
 ---
 
 ## [Mark Manson - Author. Thinker. Life Enthusiast.](https://markmanson.net/)
+- [The Subtle Art of Not Giving a Fuck](https://markmanson.net/not-giving-a-fuck)
+- [The Most Important Question of Your Life](https://markmanson.net/question)
+- [The Four Stages of Life](https://markmanson.net/four-stages-of-life)
 
 ---
 ## [wikiHow](https://www.wikihow.com/Main-Page)
