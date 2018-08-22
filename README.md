@@ -1,6 +1,8 @@
 
 # README
 
+---
+
 ## [YouTube](https://www.youtube.com/)
 - [VIVA Network](https://www.youtube.com/channel/UCF5RuEuoGrqGtscvLGLOMew)
 - [Street Workout Lang Hoa](https://www.youtube.com/channel/UCiKXIRVSWLoPGzEldGIyBwQ)
@@ -35,32 +37,32 @@
 
 ---
 
-##[Welcome to Steam](https://store.steampowered.com/)
-- [] [Grand Theft Auto V](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/)
-- [] [Rise of the Tomb Raider]https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/)
-- [] [Shadow of the Tomb Raider](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider/)
-- [] [RESIDENT EVIL 2 / BIOHAZARD RE:2](https://store.steampowered.com/app/883710/RESIDENT_EVIL_2__BIOHAZARD_RE2/)
+## [Welcome to Steam](https://store.steampowered.com/)
+- [ ] [Grand Theft Auto V](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/)
+- [ ] [Rise of the Tomb Raider](https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/)
+- [ ] [Shadow of the Tomb Raider](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider/)
+- [ ] [RESIDENT EVIL 2 / BIOHAZARD RE:2](https://store.steampowered.com/app/883710/RESIDENT_EVIL_2__BIOHAZARD_RE2/)
 
 ---
 
 ## [Gates Notes](https://www.gatesnotes.com/)
-- [][The Sympathizer]https://www.gatesnotes.com/Books/The-Sympathizer
+- [ ][The Sympathizer](https://www.gatesnotes.com/Books/The-Sympathizer)
 > *A fresh take on the Vietnam War*
-- [][Sapiens A Brief History of Humankind]https://www.gatesnotes.com/Books/Sapiens-A-Brief-History-of-Humankind
+- [ ][Sapiens A Brief History of Humankind](https://www.gatesnotes.com/Books/Sapiens-A-Brief-History-of-Humankind)
 > *How Did Humans Get Smart?*
-- [][]https://www.gatesnotes.com/Books/Homo-Deus
+- [ ][Homo Deus](https://www.gatesnotes.com/Books/Homo-Deus)
 > *What if people run out of things to do?*
-- [][Leonardo da Vinci]https://www.gatesnotes.com/Books/Leonardo-da-Vinci
+- [ ][Leonardo da Vinci](https://www.gatesnotes.com/Books/Leonardo-da-Vinci)
 > *Leonardo is one of the most fascinating people ever*
-- [][Shoe Dog]https://www.gatesnotes.com/Books/Shoe-Dog
+- [ ][Shoe Dog](https://www.gatesnotes.com/Books/Shoe-Dog)
 > *An Honest Tale of What It Takes to Succeed in Business*
-- [][The Vital Question]https://www.gatesnotes.com/Books/The-Vital-Question
+- [ ][The Vital Question](https://www.gatesnotes.com/Books/The-Vital-Question)
 > *This Biology Book Blew Me Away*
-- [][Mindset The New Psychology of Success]https://www.gatesnotes.com/Books/Mindset-The-New-Psychology-of-Success
+- [ ][Mindset The New Psychology of Success](https://www.gatesnotes.com/Books/Mindset-The-New-Psychology-of-Success)
 > *What You Believe Affects What You Achieve*
-- [][How Asia Works]https://www.gatesnotes.com/Books/How-Asia-Works
+- [ ][How Asia Works](https://www.gatesnotes.com/Books/How-Asia-Works)
 > Can the Asian Miracle Happen in Africa?
-- [][Outliers]https://www.gatesnotes.com/Books/Outliers
+- [ ][Outliers](https://www.gatesnotes.com/Books/Outliers)
 > *How Do Some Become so Successful?*
 
 ---
@@ -69,46 +71,46 @@
 
 ---
 ## [wikiHow](https://www.wikihow.com/Main-Page)
-- [][How to Buy Stocks (for Beginners)](https://www.wikihow.com/Buy-Stocks-(for-Beginners))
-- [][How to Buy Stocks](https://www.wikihow.com/Buy-Stocks)
-- [][How to Trade Stocks Online]https://www.wikihow.com/Trade-Stocks-Online
-- [][How to Buy Stock Without a Broker]https://www.wikihow.com/Buy-Stock-Without-a-Broker
-- [][How to Sell Stock Certificates]https://www.wikihow.com/Sell-Stock-Certificates
-- [][How to Invest in Stocks]https://www.wikihow.com/Invest-in-Stocks
-- [][How to Issue Stock]https://www.wikihow.com/Issue-Stock
-- [][How to Research a Stock]https://www.wikihow.com/Research-a-Stock
-- [][How to Account for Share Buy Back]https://www.wikihow.com/Account-for-Share-Buy-Back
-- [][How to Build a Stock Portfolio]https://www.wikihow.com/Build-a-Stock-Portfolio
-- [][How to Earn Regular Income from Stock Investing Via Dividends]https://www.wikihow.com/Earn-Regular-Income-from-Stock-Investing-Via-Dividends
-- [][How to Buy Nike Stock]https://www.wikihow.com/Buy-Nike-Stock
-- [][How to Account for Dividends Paid]https://www.wikihow.com/Account-for-Dividends-Paid
-- [][How to Buy a DRIP Stock]https://www.wikihow.com/Buy-a-DRIP-Stock
-- [][How to Calculate Stock Correlation Coefficient]https://www.wikihow.com/Calculate-Stock-Correlation-Coefficient
-- [][How to Choose Stocks]https://www.wikihow.com/Choose-Stocks
-- [][How to Buy Shares in Chinese Companies]https://www.wikihow.com/Buy-Shares-in-Chinese-Companies
-- [][How to Pick and Trade Penny Stocks]https://www.wikihow.com/Pick-and-Trade-Penny-Stocks
-- [][How to Know When to Sell a Stock]https://www.wikihow.com/Know-When-to-Sell-a-Stock
-- [][How to Invest in Dividend Stocks]https://www.wikihow.com/Invest-in-Dividend-Stocks
-- [][How to Decide Whether to Buy Stocks or Mutual Funds]https://www.wikihow.com/Decide-Whether-to-Buy-Stocks-or-Mutual-Funds
-- [][How to Read a Stock Chart]https://www.wikihow.com/Read-a-Stock-Chart
-- [][How to Negotiate Equity Compensation]https://www.wikihow.com/Negotiate-Equity-Compensation
-- [][How to Buy Common Stock]https://www.wikihow.com/Buy-Common-Stock
+- [ ][How to Buy Stocks (for Beginners)](https://www.wikihow.com/Buy-Stocks-(for-Beginners))
+- [ ][How to Buy Stocks](https://www.wikihow.com/Buy-Stocks)
+- [ ][How to Trade Stocks Online](https://www.wikihow.com/Trade-Stocks-Online)
+- [ ][How to Buy Stock Without a Broker](https://www.wikihow.com/Buy-Stock-Without-a-Broker)
+- [ ][How to Sell Stock Certificates](https://www.wikihow.com/Sell-Stock-Certificates)
+- [ ][How to Invest in Stocks](https://www.wikihow.com/Invest-in-Stocks)
+- [ ][How to Issue Stock](https://www.wikihow.com/Issue-Stock)
+- [ ][How to Research a Stock](https://www.wikihow.com/Research-a-Stock)
+- [ ][How to Account for Share Buy Back](https://www.wikihow.com/Account-for-Share-Buy-Back)
+- [ ][How to Build a Stock Portfolio](https://www.wikihow.com/Build-a-Stock-Portfolio)
+- [ ][How to Earn Regular Income from Stock Investing Via Dividends](https://www.wikihow.com/Earn-Regular-Income-from-Stock-Investing-Via-Dividends)
+- [ ][How to Buy Nike Stock](https://www.wikihow.com/Buy-Nike-Stock)
+- [ ][How to Account for Dividends Paid](https://www.wikihow.com/Account-for-Dividends-Paid)
+- [ ][How to Buy a DRIP Stock](https://www.wikihow.com/Buy-a-DRIP-Stock)
+- [ ][How to Calculate Stock Correlation Coefficient](https://www.wikihow.com/Calculate-Stock-Correlation-Coefficient)
+- [ ][How to Choose Stocks](https://www.wikihow.com/Choose-Stocks)
+- [ ][How to Buy Shares in Chinese Companies](https://www.wikihow.com/Buy-Shares-in-Chinese-Companies)
+- [ ][How to Pick and Trade Penny Stocks](https://www.wikihow.com/Pick-and-Trade-Penny-Stocks)
+- [ ][How to Know When to Sell a Stock](https://www.wikihow.com/Know-When-to-Sell-a-Stock)
+- [ ][How to Invest in Dividend Stocks](https://www.wikihow.com/Invest-in-Dividend-Stocks)
+- [ ][How to Decide Whether to Buy Stocks or Mutual Funds](https://www.wikihow.com/Decide-Whether-to-Buy-Stocks-or-Mutual-Funds)
+- [ ][How to Read a Stock Chart](https://www.wikihow.com/Read-a-Stock-Chart)
+- [ ][How to Negotiate Equity Compensation](https://www.wikihow.com/Negotiate-Equity-Compensation)
+- [ ][How to Buy Common Stock](https://www.wikihow.com/Buy-Common-Stock)
 
 ---
 
-## [Lazada](https://www.lazada.vn/)
-- [][Apple iPhone X 64GB Silver](https://www.lazada.vn/products/apple-iphone-x-64gb-silver-i150511258-s158185714.html)
+## [LAZADA Vietnam™ - Mua Hàng Trực Tuyến Giá Tốt](https://www.lazada.vn/)
+- [ ][Apple iPhone X 64GB Silver](https://www.lazada.vn/products/apple-iphone-x-64gb-silver-i150511258-s158185714.html)
 
 ---
 
 ## [Mua Hàng Trực Tuyến Uy Tín với Giá Rẻ Hơn tại Tiki.vn](https://tiki.vn/)
-- [][Máy Đọc Sách Kindle Paperwhite 2018 (7th) - Đen](https://tiki.vn/may-doc-sach-kindle-paperwhite-2018-7th-den-p840390.html)
-- [][Điện Thoại iPhone X 64GB - Nhập Khẩu Chính Hãng]https://tiki.vn/dien-thoai-iphone-x-64gb-nhap-khau-chinh-hang-p959653.html
-- [][Ốp Lưng iPhone X Anker Karapax Ice - A9010 - Hàng Chính Hãng]https://tiki.vn/op-lung-iphone-x-anker-karapax-ice-a9010-hang-chinh-hang-p1321713.html
-- [][Pin Sạc Dự Phòng Anker PowerCore 10400mAh - A1214 - Hàng Chính Hãng]https://tiki.vn/pin-sac-du-phong-anker-powercore-10400mah-a1214-hang-chinh-hang-p227404.html
-- [][Đồng Hồ Thông Minh Apple Watch Series 3 GPS Space Grey Aluminium Case With Grey Sport Band VN/A - Hàng Chính Hãng]https://tiki.vn/dong-ho-thong-minh-apple-watch-series-3-gps-space-grey-aluminium-case-with-grey-sport-band-vn-a-hang-chinh-hang-p1935067.html
-- [][Máy Ảnh Sony Alpha A7R MARK III Body]https://tiki.vn/may-anh-sony-alpha-a7r-mark-iii-body-p964365.html
-- [][Máy Ảnh Canon 6D Body (Lê Bảo Minh)]https://tiki.vn/may-anh-canon-6d-body-le-bao-minh-p412559.html
+- [ ][Máy Đọc Sách Kindle Paperwhite 2018 (7th) - Đen](https://tiki.vn/may-doc-sach-kindle-paperwhite-2018-7th-den-p840390.html)
+- [ ][Điện Thoại iPhone X 64GB - Nhập Khẩu Chính Hãng](https://tiki.vn/dien-thoai-iphone-x-64gb-nhap-khau-chinh-hang-p959653.html)
+- [ ][Ốp Lưng iPhone X Anker Karapax Ice - A9010 - Hàng Chính Hãng](https://tiki.vn/op-lung-iphone-x-anker-karapax-ice-a9010-hang-chinh-hang-p1321713.html)
+- [ ][Pin Sạc Dự Phòng Anker PowerCore 10400mAh - A1214 - Hàng Chính Hãng](https://tiki.vn/pin-sac-du-phong-anker-powercore-10400mah-a1214-hang-chinh-hang-p227404.html)
+- [ ][Đồng Hồ Thông Minh Apple Watch Series 3 GPS Space Grey Aluminium Case With Grey Sport Band VN/A - Hàng Chính Hãng](https://tiki.vn/dong-ho-thong-minh-apple-watch-series-3-gps-space-grey-aluminium-case-with-grey-sport-band-vn-a-hang-chinh-hang-p1935067.html)
+- [ ][Máy Ảnh Sony Alpha A7R MARK III Body](https://tiki.vn/may-anh-sony-alpha-a7r-mark-iii-body-p964365.html)
+- [ ][Máy Ảnh Canon 6D Body (Lê Bảo Minh)](https://tiki.vn/may-anh-canon-6d-body-le-bao-minh-p412559.html)
 
 ---
 
