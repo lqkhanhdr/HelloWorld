@@ -190,6 +190,7 @@
 - [Golden Gate Restaurant Group](https://www.facebook.com/profile.php?id=585078251569278)
 - [LG Electronics Vietnam](https://www.facebook.com/profile.php?id=258321297603798)
 - [IGN](https://www.facebook.com/profile.php?id=59685491632)
+- [Báo Thể thao & Văn hóa](https://www.facebook.com/profile.php?id=153084064884)
 
 ---
 
@@ -197,3 +198,12 @@
 
 ---
 
+## [Thể thao & Văn hóa - tin tức, bình luận thể thao, giải trí online | TTVH Online](https://thethaovanhoa.vn/)
+
+---
+
+## [VTV Giải Trí & Xem Tivi Trực Tuyến | VTV Online](https://www.vtvgiaitri.vn/)
+
+---
+
+## [Reuters: Business & Financial News, US & International Breaking News](https://www.reuters.com/)
