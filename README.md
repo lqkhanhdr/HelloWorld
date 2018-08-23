@@ -138,7 +138,7 @@
 ---
 
 ## [TED: Ideas worth spreading](https://www.ted.com/)
-
+- [The art of misdirection](https://www.ted.com/talks/apollo_robbins_the_art_of_misdirection)
 ---
 
 ## [GoalKicker.com: Free Programming Books](https://goalkicker.com/)
@@ -192,3 +192,8 @@
 - [IGN](https://www.facebook.com/profile.php?id=59685491632)
 
 ---
+
+## [Mac Rumors: Apple Mac iOS Rumors and News You Care About](https://www.macrumors.com/)
+
+---
+
